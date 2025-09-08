@@ -1,4 +1,6 @@
-# Biomedical MCP Servers
+# Biomedical public MCP Servers
+
+This is *not* Gosset MCP as described [here](https://www.linkedin.com/feed/update/urn:li:activity:7369688080242442240/). For accessing Gosset MCP you need an active Gosset account. Reach out to us for details.
 
 A collection of Model Context Protocol (MCP) servers for biomedical research, providing AI assistants with access to various biomedical databases and resources.
 
